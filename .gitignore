@@ -1,5 +1,5 @@
 *.classpath
 *.project
-*/bin/
-*/gen/
+/bin/*
+/gen/*
 */.settings
